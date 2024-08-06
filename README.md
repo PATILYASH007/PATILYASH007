@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **PATILYASH007/PATILYASH007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,10 +26,10 @@ Welcome to my GitHub profile! I'm a passionate developer and researcher working 
 
 ## 🛠️ Skills and Technologies
 
-- **Programming Languages**: Python, JavaScript, C++, Java
+- **Programming Languages**: Python, C, C++, Java, JavaScript, HTML, css, 
 - **Frameworks and Libraries**: TensorFlow, Keras, PyTorch, React, Node.js
-- **Tools and Platforms**: Git, Docker, AWS, Azure
-- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Tools and Platforms**: GitHUB, Jira, Kaggle
+- **Databases**: MySQL-LEARNING
 
 ## 📫 Contact Information
 
