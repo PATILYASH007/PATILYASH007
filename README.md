@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Yash Patil 👋
 
 Welcome to my GitHub profile! I'm a passionate developer and researcher working on various exciting projects. Here you'll find my contributions to open-source projects, as well as my personal and collaborative work.
 
+<!--
 ## 🚀 Current Projects
 
 - **Violence Detection System**: Developing a real-time violence detection system using deep learning techniques to improve security and surveillance. [Repository Link](#)
@@ -33,15 +34,16 @@ Welcome to my GitHub profile! I'm a passionate developer and researcher working 
 
 ## 📫 Contact Information
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: mh09yashpatil@gmail.com(mailto:mh09yashpatil@gmail.com)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 - **Twitter**: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
-
+- **Instagram**: __yashu007(https://www.instagram.com/__yashu007?igsh=ZmJmbG5ya21tYWFh)
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
 
 ---
+-->
 
 Thanks for visiting my profile! Feel free to reach out if you have any questions or collaborations in mind.
