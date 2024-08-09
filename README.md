@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate developer and researcher working 
 
 ## 📫 Contact Information
 
-- **Email**: mh09yashpatil@gmail.com(mailto:mh09yashpatil@gmail.com)
+- **Email**: mh09yashpatil@gmail.com(mailto:mh09yashpatil@gmail.com
   
 - **Instagram**: __yashu007(https://www.instagram.com/__yashu007?igsh=ZmJmbG5ya21tYWFh)
 <!--
