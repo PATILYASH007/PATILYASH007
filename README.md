@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate developer and researcher working 
 
 - **Violence Detection System**: Developing a real-time violence detection system using deep learning techniques to improve security and surveillance. [Repository Link](#)
 - **Project 2**: A brief description of another project you're working on. [Repository Link](#)
-- **Project 3**: A brief description of another project you're working on. [Repository Link](#)
+- **Project 3**: A brief description of another project you're working on. [Repository Link](#)-->
 
 ## 🛠️ Skills and Technologies
 
@@ -35,9 +35,11 @@ Welcome to my GitHub profile! I'm a passionate developer and researcher working 
 ## 📫 Contact Information
 
 - **Email**: mh09yashpatil@gmail.com(mailto:mh09yashpatil@gmail.com)
+  
+- **Instagram**: __yashu007(https://www.instagram.com/__yashu007?igsh=ZmJmbG5ya21tYWFh)
+<!--
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 - **Twitter**: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
-- **Instagram**: __yashu007(https://www.instagram.com/__yashu007?igsh=ZmJmbG5ya21tYWFh)
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&theme=dark)
