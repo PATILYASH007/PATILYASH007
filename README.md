@@ -40,12 +40,12 @@ Exploring new technologies and contributing to open-source projects.
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   
-  <a href="https://www.w3schools.com/c++/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original-wordmark.svg" alt="c++" width="40" height="40"/> </a>
+  <a href="https://WWW.isocpp.org//cpp/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original-wordmark.svg" alt="cpp" width="40" height="40"/> </a>
   
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-
+</p>
   <h4 align="left"> Frontend Development</h4>
   <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -68,8 +68,8 @@ Exploring new technologies and contributing to open-source projects.
   <a href="https://www.jupyter.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter notebook" width="40" height="40"/> </a>
 
-  <a href="https://www.code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/code.visualstudio/code.visualstudio-original.svg" alt="visualstudiocode" width="40" height="40"/> </a>
+  <a href="https://www.vscode.dev/)/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/code.visualstudio/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
   </p>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -89,7 +89,7 @@ Exploring new technologies and contributing to open-source projects.
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 
-  <a href="https://www.hackerrank.com/profile/mh09yashpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-                     generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-                     generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
 
   <a href="https://leetcode.com/u/iam_yashPatil/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Yash patil" height="30"           width="40" /></a>
