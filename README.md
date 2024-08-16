@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate aabout AI & Machine learning</h3>
 <!--img align="right" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" alt="coding " width="400"-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PATILYASH007&label=Profile%20views&color=0e75b6&style=flat" alt="PATILYASH007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PATILYASH007&label=Profile%20activity&color=0e75b6&style=flat" alt="PATILYASH007" /> </p>
 
 
 
@@ -24,16 +24,12 @@ Here are some ideas to get you started:
 <p align="left">
 🎓 I'm a B.Tech student majoring in Computer Science & Engineering (AI-ML).Passionate about Artificial Intelligence and Machine Learning.  
 📚 Currently learning advanced AI/ML using python and web development.</p>
-<br>
-<br>
   
 <h2 align="left">🔭 Currently Working On </h2>
 <p align="left">
 Enhancing my skills in AI and Machine Learning through various projects and coursework.
 Exploring new technologies and contributing to open-source projects.
 </p>
-<br>
-<br>
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <h2 align="left">🛠️ Technologies & Tools</h2>
 <h4 align="left"> Languages</h4>
@@ -72,7 +68,7 @@ Exploring new technologies and contributing to open-source projects.
   <a href="https://www.jupyter.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter notebook" width="40" height="40"/> </a>
 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.code.visualstudio.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/code.visualstudio/code.visualstudio-original.svg" alt="visualstudiocode" width="40" height="40"/> </a>
   </p>
 
@@ -93,29 +89,16 @@ Exploring new technologies and contributing to open-source projects.
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 
-  <a href="https://www.hackerrank.com/profile/mh09yashpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-                     generator/master/src/images/icons/Social/hackerrank.svg" alt="Yash Patil" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/mh09yashpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-                     generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
 
   <a href="https://leetcode.com/u/iam_yashPatil/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Yash patil" height="30"           width="40" /></a>
 </p>
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!--a href="https://www.codechef.com/users/yash patil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yash patil" height="30" width="40" /></a-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PATILYASH007&show_icons=true&locale=en" alt="PATILYASH007" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PATILYASH007&" alt="PATILYASH007" /></p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pruthvimudekar&show_icons=true&locale=en&layout=compact" alt="pruthvimudekar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pruthvimudekar&show_icons=true&locale=en" alt="pruthvimudekar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvimudekar&" alt="pruthvimudekar" /></p>
+## 🌟 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas! 
+## 🤝 You're also welcome to use my README as inspiration for creating your own profile. 💡 I'm always here to help if you need any assistance. 😊
