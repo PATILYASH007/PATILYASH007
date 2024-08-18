@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">I'm Yash Patil </h1>
+<h1 align="left"> 👋 I'm Yash Patil </h1>
 <h3 align="center">A passionate aabout AI & Machine learning</h3>
 <!--img align="right" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" alt="coding " width="400"-->
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 Enhancing my skills in AI and Machine Learning through various projects and coursework.
 Exploring new technologies and contributing to open-source projects.
 </p>
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <h2 align="left">🛠️ Technologies & Tools</h2>
 <h4 align="left"> Languages</h4>
 <p align="left">
@@ -40,8 +40,8 @@ Exploring new technologies and contributing to open-source projects.
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   
-  <a href="https://WWW.isocpp.org//cpp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original-wordmark.svg" alt="cpp" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -51,15 +51,15 @@ Exploring new technologies and contributing to open-source projects.
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original-wordmark.svg" alt="css" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   
-  <a href="https://www.w3schools.com/Javascript/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Javascript/Javascript-original-wordmark.svg" alt="Js" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p>
   <!--a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
   <!--img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a-->
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
   <h2 align="left">⚡Tools & Platforms</h2>
   <p align="left">
   <a href="https://www.github.com/" target="_blank" rel="noreferrer"> 
@@ -72,7 +72,7 @@ Exploring new technologies and contributing to open-source projects.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/code.visualstudio/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
   </p>
 
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <h2 align="left"> 📫 Connect with me:</h2>
 <p align="left">
@@ -80,25 +80,35 @@ Exploring new technologies and contributing to open-source projects.
   
 <a href="https://www.instagram.com/__yashu007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__yashu007" height="30" width="40" /></a>
 </p>
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <h2 align="left"> ✨ Also see my other profiles </h2>
 <p align="left">
+   <a href="https://www.hackerrank.com/patilyash007" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="patilyash007" height="30" width="40" /></a>
+
+  <a href="https://leetcode.com/u/iam_yashPatil/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Yash patil" height="30" width="40" /></a>
+  
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
  
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 
-  <a href="https://www.hackerrank.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-                     generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
-
-  <a href="https://leetcode.com/u/iam_yashPatil/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Yash patil" height="30"           width="40" /></a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 </p>
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 <!--a href="https://www.codechef.com/users/yash patil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yash patil" height="30" width="40" /></a-->
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PATILYASH007&show_icons=true&locale=en" alt="PATILYASH007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PATILYASH007&" alt="PATILYASH007" /></p>
 
-## 🌟 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas! 
-## 🤝 You're also welcome to use my README as inspiration for creating your own profile. 💡 I'm always here to help if you need any assistance. 😊
+### 🌟 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas! 
+### 🤝 You're also welcome to use my README as inspiration for creating your own profile. 💡 I'm always here to help if you need any assistance. 😊
+
+<!-------------------------------------------------------------------special Thanks to @rahuldkjain--------------------------------------------------------------------------->
+
+
