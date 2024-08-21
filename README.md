@@ -105,8 +105,8 @@ Exploring new technologies and contributing to open-source projects.
 <!--a href="https://www.codechef.com/users/yash patil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yash patil" height="30" width="40" /></a-->
 
 <div align=left>
-<img width=390 src="https://streak-stats.demolab.com/?user=div-thombare&count_private=true&theme=react&border_radius=10" alt="streak stats"/><br/><br/>
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=div-thombare&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img width=390 src="https://streak-stats.demolab.com/?user=PATILYASH007&count_private=true&theme=react&border_radius=10" alt="streak stats"/><br/><br/>
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PATILYASH007&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 ### 🌟 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas! 
