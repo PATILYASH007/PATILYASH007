@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"> 👋 I'm Yash Patil </h1>
 <h3 align="center">Strategic Leader | Quick Thinker | AI/ML Enthusiast | Passionate Problem Solver</h3>
-<!--img align="right" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" alt="coding " width="400"-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PATILYASH007&label=Profile%20activity&color=0e75b6&style=flat" alt="PATILYASH007" /> </p>
 
