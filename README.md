@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
+</div>
 <h1 align="center"> 👋 I'm Yash Patil </h1>
 <h3 align="center">Strategic Leader | Quick Thinker | AI/ML Enthusiast | Passionate Problem Solver</h3>
 
@@ -112,4 +116,4 @@ Exploring new technologies and contributing to open-source projects.
 
 <!-------------------------------------------------------------------special Thanks to @rahuldkjain--------------------------------------------------------------------------->
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=100&section=footer&text=Thanks%20Dev.%20Visitors%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
