@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=150&text=Hamzaoui%20Amine&fontSize=50&fontColor=8A2BE2&fontAlignY=45&animation=twinkling&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=150&text=Yash%20Patil&fontSize=50&fontColor=8A2BE2&fontAlignY=45&animation=twinkling&section=header" />
 <h3 align="center">Strategic Leader | Quick Thinker | AI/ML Enthusiast | Passionate Problem Solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PATILYASH007&label=Profile%20activity&color=0e75b6&style=flat" alt="PATILYASH007" /> </p>
