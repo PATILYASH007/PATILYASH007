@@ -111,8 +111,8 @@ Exploring new technologies and contributing to open-source projects.
 <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PATILYASH007&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-### 🌟 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas! 
-### 🤝 You're also welcome to use my README as inspiration for creating your own profile. 💡 I'm always here to help if you need any assistance. 😊
+## Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas! 🌟
+## You're also welcome to use my README as inspiration for creating your own profile. I'm always here to help if you need any assistance. 😊🤝
 
 <!-------------------------------------------------------------------special Thanks to @rahuldkjain--------------------------------------------------------------------------->
 
