@@ -12,11 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align="center">
-    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
 </div>
-<h1 align="center"> 👋 I'm Yash Patil </h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=150&text=Hamzaoui%20Amine&fontSize=50&fontColor=8A2BE2&fontAlignY=45&animation=twinkling&section=header" />
 <h3 align="center">Strategic Leader | Quick Thinker | AI/ML Enthusiast | Passionate Problem Solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PATILYASH007&label=Profile%20activity&color=0e75b6&style=flat" alt="PATILYASH007" /> </p>
@@ -25,8 +22,8 @@ Here are some ideas to get you started:
 
 <h2 align="left">About Me:</h2>
 <p align="left">
-🎓 I'm a B.Tech student majoring in Computer Science & Engineering (AI-ML).Passionate about Artificial Intelligence and Machine Learning.  
-📚 Currently learning advanced AI/ML using python and web development.</p>
+I'm a B.Tech student majoring in Computer Science & Engineering (AI-ML).Passionate about Artificial Intelligence and Machine Learning.  
+Currently learning advanced AI/ML using python and web development.</p>
   
 <h2 align="left">🔭 Currently Working On </h2>
 <p align="left">
@@ -34,6 +31,9 @@ Enhancing my skills in AI and Machine Learning through various projects and cour
 Exploring new technologies and contributing to open-source projects.
 </p>
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<div align="center">
+    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <h2 align="left">🛠️ Technologies & Tools</h2>
 <h4 align="left"> Languages</h4>
 <p align="left">
