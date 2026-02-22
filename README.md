@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=150&text=Yash%20Patil&fontSize=50&fontColor=8A2BE2&fontAlignY=45&animation=twinkling&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:081229,100:302B63&height=150&text=Yash%20Patil&fontSize=50&fontColor=FF4FD8&fontAlignY=45&animation=twinkling&section=header" />
 <h3 align="center">Strategic Leader | Quick Thinker | AI/ML Enthusiast | Passionate Problem Solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PATILYASH007&label=Profile%20activity&color=0e75b6&style=flat" alt="PATILYASH007" /> </p>
@@ -116,4 +116,4 @@ Exploring new technologies and contributing to open-source projects.
 
 <!-------------------------------------------------------------------special Thanks to @rahuldkjain--------------------------------------------------------------------------->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=100&section=footer&text=Thanks%20Dev.%20Visitors%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1E3A,100:2A5298&height=100&section=footer&text=Thanks%20Dev.%20Visitors%20👋🏻&fontSize=25&fontColor=00E0FF&animation=twinkling" />
